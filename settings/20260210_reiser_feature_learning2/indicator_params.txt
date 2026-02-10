@@ -1,0 +1,10 @@
+indicatorwindowr,35
+pad,1
+OptogeneticExp,1
+maxDistCornerFrac_LEDLabel,.25
+LEDMarkerType,three-led-template.png
+ledmask1,three-led-template-lower-left-led-mask.png
+ledmask2,three-led-template-upper-left-led-mask.png
+ledmask3,three-led-template-upper-right-led-mask.png
+nRotations,1
+doesUseProtocolDotMat,0
