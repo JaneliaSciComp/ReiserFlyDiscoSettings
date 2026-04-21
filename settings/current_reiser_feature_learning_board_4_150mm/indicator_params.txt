@@ -1,8 +1,0 @@
-indicatorwindowr,35
-pad,1
-OptogeneticExp,1
-maxDistCornerFrac_LEDLabel,.35
-LEDMarkerType,single-led-template.png
-ledmask1,single-led-template-mask.png
-nRotations,1
-doesUseProtocolDotMat,0
