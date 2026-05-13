@@ -1,0 +1,4 @@
+min_num_flies,0
+min_num_males,0
+min_num_females,0
+max_num_flies,inf
